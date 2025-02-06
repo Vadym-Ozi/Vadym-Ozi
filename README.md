@@ -10,84 +10,84 @@ I'm Vadym, a self-motivated tech enthusiast and Backend Developer.
 <table align="center">
   <tr>
      <td align="center"  width="88">
-         <img src="./imgs/java.png" alt="Java" width="44" height="44"/>
+         <img src="images/java.png" alt="Java" width="44" height="44"/>
       <br>Java
     </td>
     <td align="center" width="88">
-        <img src="./images/02-css3.svg" alt="Spring" width="44" height="44"/>
-      <br>CSS3
+        <img src="images/Spring.svg" alt="Spring" width="44" height="44"/>
+      <br>Spring
     </td>
 <td align="center" width="88">
-         <img src="./images/03-javascript.svg" alt="Keycloak" width="44" height="44"/>
-      <br>JavaScript
+         <img src="images/keycloak.svg" alt="Keycloak" width="44" height="44"/>
+      <br>Keycloak
     </td>
     <td align="center" width="88">
-        <img src="./images/04-typescript.svg" alt="AWS" width="44" height="44"/>
-      <br>TypeScript
+        <img src="./images/aws.svg" alt="AWS" width="44" height="44"/>
+      <br>AWS
     </td>
     <td align="center" width="88">
-        <img src="./images/05-python.svg" alt="Kafka" width="44" height="44"/>
-      <br>Python
+        <img src="./images/Kafka.svg" alt="Kafka" width="44" height="44"/>
+      <br>Kafka
     </td>
     <td align="center" width="88">
-        <img src="./images/06-react.svg" alt="Docker" width="44" height="44"/>
-      <br>React.js
+        <img src="./images/docker.svg" alt="Docker" width="44" height="44"/>
+      <br>Docker
     </td>
     <td align="center" width="88">
-        <img src="./images/07-nextjs.svg" alt="MySql" width="44" height="44"/>
-      <br>Next.js
+        <img src="./images/mysql.png" alt="MySql" width="44" height="44"/>
+      <br>MySql
     </td>
     <td align="center" width="88">
-      <img src="./images/08-nodejs.svg" alt="Postgres" width="44" height="44"/>
-      <br>Node.js
+      <img src="./images/postgres.svg" alt="Postgres" width="44" height="44"/>
+      <br>Postgres
     </td>
         <td align="center" width="88">
-       <img src="./images/09-sql.svg" alt="Elasticsearch" width="44" height="44"/>
-      <br>SQL
+       <img src="./images/elasticsearch.svg" alt="Elasticsearch" width="44" height="44"/>
+      <br>Elasticsearch
       </td>
   </tr>
     <td align="center" width="88">
-        <img src="./images/10-sass.svg" alt="Swagger" width="44" height="44"/>
-      <br>Sass
+        <img src="./images/Swagger.svg" alt="Swagger" width="44" height="44"/>
+      <br>Swagger
     </td>
     <td align="center" width="88"> 
-        <img src="./images/11-bem.svg" alt="IntelliJ Idea" width="44" height="44"/>
-      <br>BEM
+        <img src="./images/intellij-idea.svg" alt="IntelliJ Idea" width="44" height="44"/>
+      <br>Idea
     </td>
     <td align="center"  width="88">
-        <img src="./images/12-tailwind.svg" alt="Rest API" width="44" height="44"/>
-      <br>Tailwind
+        <img src="./images/rest.png" alt="Rest API" width="44" height="44"/>
+      <br>Rest API
     </td>
     <td align="center" width="88">
-        <img src="./images/13-redux.svg" alt="Project Reactive" width="44" height="44"/>
-      <br>Redux
+        <img src="./images/pr.png" alt="Project Reactor" width="44" height="44"/>
+      <br>Project Reactor
     </td>
       <td align="center" width="88">
-        <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
+    <img src="./images/postman.svg" alt="Postman" width="44" height="44"/>
       <br>Postman
     </td>
       </td>
       <td align="center" width="88">
-        <img src="./images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
+        <img src="./images/mongo.png" alt="MongoDB" width="44" height="44"/>
       <br>MongoDB
      </td>
      <td align="center" width="88">
-        <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
+        <img src="./images/git.svg" alt="Git" width="44" height="44"/>
       <br>Git
     </td>
   <td align="center" width="88">
-        <img src="./images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
-      <br>VSCode
+        <img src="./images/Redis.svg" alt="Redis" width="44" height="44"/>
+      <br>Redis
      </td>
   <td align="center" width="88">
-        <img src="./images/18-figma.svg" alt="Liquibase" width="44" height="44"/>
-      <br>Figma
+        <img src="./images/grafana.svg" alt="Grafana" width="44" height="44"/>
+      <br>Grafana
      </td>
 </table>
 </div>
 
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=gkhan205&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
+![Vadym's github stats](https://github-readme-stats.vercel.app/api?username=vadym-ozi&show_icons=true&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadym-ozi&layout=compact&theme=dark&hide_border=true)
 
 ### Languages :
 
