@@ -4,13 +4,6 @@
 I'm Vadym, a self-motivated tech enthusiast and Backend Developer.
 </p>
 
-
-
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=gkhan205&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
-
-
-
 ### ⚙️ Some Tool and Tech I use
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -28,6 +21,9 @@ I'm Vadym, a self-motivated tech enthusiast and Backend Developer.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
 <code><img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code>  
 
+![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=gkhan205&show_icons=true&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
+
 ### Languages :
 
 <div style="display: flex; align-items: flex-start; align: center">
@@ -40,7 +36,19 @@ I'm Vadym, a self-motivated tech enthusiast and Backend Developer.
 
   <tr>
     
-        🇬🇧 English - Pre-Intermediate
+        🇬🇧 English - B2+
+        
+  </tr>
+
+  <tr>
+    
+        🇺🇦 Czech - A2
+        
+  </tr>
+
+  <tr>
+    
+        🇺🇦 Russian - Native
         
   </tr>
 </table>
