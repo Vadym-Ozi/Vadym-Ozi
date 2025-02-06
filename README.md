@@ -26,29 +26,15 @@ I'm Vadym, a self-motivated tech enthusiast and Backend Developer.
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-     
-
-        <td align="center" width="88">
-       <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
-      <br>SQL
-      </td>
-  </tr>
-   
+     <td align="center"  width="88">
+         <img src="./images/01-html5.svg" alt="Java" width="44" height="44"/>
+      <br>HTML5
     </td>
-      <td align="center" width="88">
-        <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
-      <br>Postman
+    <td align="center" width="88">
+        <img src="./images/02-css3.svg" alt="Spring" width="44" height="44"/>
+      <br>CSS3
     </td>
-      </td>
-      <td align="center" width="88">
-        <img src="./images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
-      <br>MongoDB
-     </td>
-     <td align="center" width="88">
-        <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
-      <br>Git
-    </td>
-  <td align="center" width="88">
+<td align="center" width="88">
         <img src="./images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
       <br>VSCode
      </td>
