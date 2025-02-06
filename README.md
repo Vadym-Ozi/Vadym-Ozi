@@ -26,7 +26,7 @@ I'm Vadym, a self-motivated tech enthusiast and Backend Developer.
       <br>AWS
     </td>
     <td align="center" width="88">
-        <img src="./images/Kafka.svg" alt="Kafka" width="44" height="44"/>
+        <img src="./images/kafka.svg" alt="Kafka" width="44" height="44"/>
       <br>Kafka
     </td>
     <td align="center" width="88">
