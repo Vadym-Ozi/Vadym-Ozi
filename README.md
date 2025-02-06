@@ -14,7 +14,7 @@ I'm Vadym, a self-motivated tech enthusiast and Backend Developer.
       <br>Java
     </td>
     <td align="center" width="88">
-        <img src="images/Spring.svg" alt="Spring" width="44" height="44"/>
+        <img src="images/spring.svg" alt="Spring" width="44" height="44"/>
       <br>Spring
     </td>
 <td align="center" width="88">
@@ -47,7 +47,7 @@ I'm Vadym, a self-motivated tech enthusiast and Backend Developer.
       </td>
   </tr>
     <td align="center" width="88">
-        <img src="./images/Swagger.svg" alt="Swagger" width="44" height="44"/>
+        <img src="./images/swagger.svg" alt="Swagger" width="44" height="44"/>
       <br>Swagger
     </td>
     <td align="center" width="88"> 
@@ -76,7 +76,7 @@ I'm Vadym, a self-motivated tech enthusiast and Backend Developer.
       <br>Git
     </td>
   <td align="center" width="88">
-        <img src="./images/Redis.svg" alt="Redis" width="44" height="44"/>
+        <img src="./images/redis.svg" alt="Redis" width="44" height="44"/>
       <br>Redis
      </td>
   <td align="center" width="88">
