@@ -10,8 +10,8 @@ I'm Vadym, a self-motivated tech enthusiast and Backend Developer.
 <table align="center">
   <tr>
      <td align="center"  width="88">
-         <img src="./images/01-html5.svg" alt="Java" width="44" height="44"/>
-      <br>HTML5
+         <img src="./imgs/java.png" alt="Java" width="44" height="44"/>
+      <br>Java
     </td>
     <td align="center" width="88">
         <img src="./images/02-css3.svg" alt="Spring" width="44" height="44"/>
