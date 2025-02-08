@@ -95,7 +95,7 @@ I'm Vadym, a self-motivated tech enthusiast and Backend Developer.
 <table  align="center">
   <tr>
     
-        🇺🇦 Ukrainian - Native
+        ua Ukrainian - Native
         
   </tr>
 
@@ -107,13 +107,13 @@ I'm Vadym, a self-motivated tech enthusiast and Backend Developer.
 
   <tr>
     
-        🇺🇦 Czech - A2
+        cz Czech - A2
         
   </tr>
 
   <tr>
     
-        🇺🇦 Russian - Native
+        ru Russian - Native
         
   </tr>
 </table>
